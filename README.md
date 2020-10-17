@@ -1,9 +1,14 @@
 # Text Summarization with a WordCloud
 
+## Built with
+
+1. Streamlit 
+2. Wordcloud
+
 ## To run
 
 ```bash
-   git clone
+   git clone https://github.com/Boadzie/sammaryman.git
 ```
 
 ```bash
